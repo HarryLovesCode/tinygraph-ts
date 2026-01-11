@@ -1,0 +1,16 @@
+{
+  "name": "tiny-graph",
+  "version": "1.0.0",
+  "description": "A tiny directed graph implementation.",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "Harry G",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "debug": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12"
+  }
+}
