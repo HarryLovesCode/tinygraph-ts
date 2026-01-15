@@ -1,5 +1,5 @@
 {
-  "name": "tiny-graph",
+  "name": "tinygraph-ts",
   "version": "0.1.1",
   "description": "A tiny directed graph implementation.",
   "main": "dist/index.js",
