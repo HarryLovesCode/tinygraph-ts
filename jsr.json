@@ -1,6 +1,6 @@
 {
-  "name": "@harrylovescode/tiny-graph",
-  "version": "0.1.0",
+  "name": "@harrylovescode/tinygraph-ts",
+  "version": "0.1.2",
   "license": "Unlicense",
   "exports": "./src/index.ts"
 }
